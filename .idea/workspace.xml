@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220d5c6d-02dc-4493-8f69-5a13a5afcb57" name="Changes" comment="Completing Section 12.163: Our Generics Class&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)">
+    <list default="true" id="220d5c6d-02dc-4493-8f69-5a13a5afcb57" name="Changes" comment="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crg/rla/section12163/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crg/rla/section12163/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/crg/rla/section12163/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crg/rla/section12163/Team.java" afterDir="false" />
@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675828366769</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)">
+      <created>1675847369018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675847369018</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completing Section 12.162: Generics Introduction&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
     <MESSAGE value="Completing Section 12.163: Our Generics Class&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completing Section 12.163: Our Generics Class&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
+    <MESSAGE value="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
   </component>
 </project>
