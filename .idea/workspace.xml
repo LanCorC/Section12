@@ -4,20 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="220d5c6d-02dc-4493-8f69-5a13a5afcb57" name="Changes" comment="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)">
+    <list default="true" id="220d5c6d-02dc-4493-8f69-5a13a5afcb57" name="Changes" comment="Completing Section 12.166: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)">
+      <change afterPath="$PROJECT_DIR$/src/crg/rla/section12167/League.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crg/rla/section12167/LeagueTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crg/rla/section12167/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crg/rla/section12167/Team.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crg/rla/section12163/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crg/rla/section12163/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/crg/rla/section12163/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/crg/rla/section12163/Team.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -39,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.crg.rla.section12163.Main">
+  <component name="RunManager" selected="Application.crg.rla.section12167.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="crg.rla.section12162.Main" />
       <module name="Section12" />
@@ -66,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="crg.rla.section12167.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crg.rla.section12167.Main" />
+      <module name="Section12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crg.rla.section12167.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.crg.rla.section12167.Main" />
         <item itemvalue="Application.crg.rla.section12163.Main" />
         <item itemvalue="Application.crg.rla.section12162.Main" />
       </list>
@@ -103,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675847369018</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completing Section 12.166: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)">
+      <created>1675848042133</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675848042133</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +151,7 @@
     <MESSAGE value="Completing Section 12.162: Generics Introduction&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
     <MESSAGE value="Completing Section 12.163: Our Generics Class&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
     <MESSAGE value="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completing Section 12.165: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
+    <MESSAGE value="Completing Section 12.166: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completing Section 12.166: Our Generics Class Part 3&#10;&#10;Note: Section 12 and onwards here I have gone beyond the latest re-master (4th Feb was release re-mastered Section 11)" />
   </component>
 </project>
