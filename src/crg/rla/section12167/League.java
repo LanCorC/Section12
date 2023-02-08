@@ -3,7 +3,7 @@ package crg.rla.section12167;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class League<T extends Team<T>> implements LeagueTable {
+public class League<T extends Team<T>> {
     private ArrayList<T> leagueRoster = new ArrayList<>(15);
 
     public void addTeam(T team) {
